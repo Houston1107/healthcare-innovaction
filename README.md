@@ -10,7 +10,7 @@ Assembly products are like open-source and made with contributions from the comm
 
 Visit [https://assembly.com](https://assembly.com) to learn more.
 
-### Tecgnology 
+### Technology  
 I'm looking to build in either Ruby or PHP. 
 
 

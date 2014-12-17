@@ -13,6 +13,9 @@ Visit [https://assembly.com](https://assembly.com) to learn more.
 ### Technology  
 I'm looking to build in either Ruby or PHP. We need to use a secured, and scalable language.
 
+### EHR 
+A EHR is mainly a data storage application. Moving, presenting, and storing data. 
+
 ### HIPPA Compliance 
 We are a PI (Personal Information) Level Health application. To keep our application compliant, we need to make sure we can prove we can't access and (PI) data. 
 
@@ -20,7 +23,7 @@ We are a PI (Personal Information) Level Health application. To keep our applica
 We can use a (SaaS) type data storage. Placing healthcare facility's into their own data containers. Healthcare facility's are owned in groups. So imaging signing a contract with one company, and then having 120 facility's around the US to serve. But healthcare company A (120 facility's) data will be separate from company B (82 facility's).
 
 ### Developers 
-I'm more of a products guy, so I'm looking forwarded to working with talented frontend developers. Just google search (hospital) or (nursing home) EHR's, and you'll see all of the ugly applications. This application will be a massive leap for facility's into future/present time. 
+I'm more of a products guy, so I'm looking forwarded to working with talented frontend developers. Just google search (hospital) or (nursing home) EHR's, and you'll see all of the ugly applications. This application will be a massive leap for facility's into future/present times.
 
 ### API
 I don't know if this is something important to create in the beginning. But the ability to connect our software to wireless monitoring devices is huge. Have partnerships will company's in the valley like Cellscope is huge.
